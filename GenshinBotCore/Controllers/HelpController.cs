@@ -34,8 +34,6 @@ namespace GenshinBotCore.Controllers
               .AppendLine("5. 随机表情：[随机表情 筛选条件]")
               .AppendLine("    例：[随机表情 刻晴]")
               .AppendLine("-----------------------------")
-              .AppendLine("项目开发中：https://github.com/opq-osc/GenshinBot")
-              .AppendLine("求Star，求关注");
 
             return sb.ToString().TrimEnd('\r','\n');
         }
