@@ -38,4 +38,6 @@
   <ItemGroup>
     <ProjectReference Include="..\YukinoshitaBot\YukinoshitaBot.csproj" />
   </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
 </Project>
